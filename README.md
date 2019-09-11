@@ -1,6 +1,9 @@
 # TeamSort
 排队软件
 1.请导入excel表格，表格格式如下：
+
+
+
 <img src="https://github.com/SYC1123/TeamSort/blob/master/TIM%E6%88%AA%E5%9B%BE20190911202425.png" width="360" height="640">
 2.注意：性别用1或2表示（参考问卷星），1为男生，2为女生
 3.身高用厘米数表示，不加单位！必须是数值格式，不能为字符格式
